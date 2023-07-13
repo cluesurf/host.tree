@@ -12,7 +12,7 @@
 
 <h3 align='center'>moon.link</h3>
 <p align='center'>
-  The Base Link Resource Provisioning Framework
+  The BaseLink Resource Provisioning Framework
 </p>
 
 <br/>
