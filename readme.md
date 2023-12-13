@@ -12,7 +12,7 @@
 
 <h3 align='center'>nest.note</h3>
 <p align='center'>
-  The BaseLink Resource Provisioning Framework
+  The BaseNote Resource Provisioning Framework
 </p>
 
 <br/>
