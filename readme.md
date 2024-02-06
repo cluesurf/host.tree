@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/nest.note/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/nest.leaf/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>nest.note</h3>
+<h3 align='center'>nest.leaf</h3>
 <p align='center'>
-  The BaseNote Resource Provisioning Framework
+  The SeedLeaf Resource Provisioning Framework
 </p>
 
 <br/>
