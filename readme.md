@@ -10,9 +10,9 @@
   <img src='https://github.com/termsurf/nest.tree/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>nest.tree</h3>
+<h3 align='center'>host.tree</h3>
 <p align='center'>
-  The BaseTree Resource Provisioning Framework
+  The NoteTree Resource Provisioning Framework
 </p>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ## License
 
-Copyright 2023 <a href='https://term.surf'>TermSurf</a>
+Copyright 2023-2024 <a href='https://term.surf'>TermSurf</a>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
