@@ -12,7 +12,7 @@
 
 <h3 align='center'>host.tree</h3>
 <p align='center'>
-  The TextTree Resource Provisioning Framework
+  The TreeCode Resource Provisioning Framework
 </p>
 
 <br/>
