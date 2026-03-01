@@ -6,10 +6,6 @@
 <br/>
 <br/>
 
-<p align='center'>
-  <img src='https://github.com/cluesurf/land.tree/blob/make/view/view.svg?raw=true' height='256'>
-</p>
-
 <h3 align='center'>land.tree</h3>
 <p align='center'>
   The TermTree Resource Provisioning Framework
