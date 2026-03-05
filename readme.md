@@ -6,22 +6,47 @@
 <br/>
 <br/>
 
-<h3 align='center'>land.tree</h3>
+<h3 align='center'>mesh.tree</h3>
 <p align='center'>
-  The TermTree Resource Provisioning Framework
+  The Seed Infrastructure Library
 </p>
 
 <br/>
 <br/>
 <br/>
 
+## What It Does
+
+`mesh.tree` provides infrastructure abstractions for Seed applications.
+It covers resource provisioning, deployment, and cloud service
+management, all defined in `.tree` code.
+
+Areas include:
+
+- **Provisioning**: Define and manage cloud resources declaratively
+- **Networking**: Load balancers, DNS, firewalls, VPNs
+- **Compute**: Containers, VMs, serverless functions
+- **Storage**: Object stores, databases, file systems
+- **Monitoring**: Logging, metrics, alerting
+
+## Part of the Seed Ecosystem
+
+| Package   | Purpose                          |
+| --------- | -------------------------------- |
+| seed      | Entrypoint and CLI               |
+| make.tree | Compiler                         |
+| flow.tree | Language server                   |
+| deck.tree | Package manager                  |
+| base.tree | Standard library                 |
+| mesh.tree | Infrastructure (this package)    |
+
 ## License
 
-Copyright 2023-2024 <a href='https://clue.surf'>ClueSurf</a>
+Copyright 2021-2026+ <a href='https://clue.surf'>ClueSurf</a>
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License"); you may
+not use this file except in compliance with the License. You may obtain
+a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 

@@ -1,3 +1,4 @@
 
-deck @cluesurf/land
+deck @cluesurf/mesh
+  head <The Seed Infrastructure Library>
   mark <0.0.1>
